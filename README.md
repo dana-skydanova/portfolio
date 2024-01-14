@@ -1,5 +1,5 @@
 # portfolio
-Repo for the page with the animation of a penguin from the freeCodeCamp certification program
+Repo for my portfolio page
 
 ## Verwendete Technologien:
 - HTML
